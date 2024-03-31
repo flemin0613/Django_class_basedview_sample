@@ -1,0 +1,11 @@
+■環境構築
+django-admin startproject todoproject .
+
+python manage.py runserver
+
+python manage.py startapp todo
+
+■モデル関連
+python manage.py makemigrations 【対象のアプリ名】
+
+python manage.py migrate
