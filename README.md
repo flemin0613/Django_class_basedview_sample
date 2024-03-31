@@ -1,0 +1,2 @@
+# Django_class_basedview_sample
+Djangoのツボとコツがゼッタイにわかる本
